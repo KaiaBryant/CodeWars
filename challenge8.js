@@ -13,7 +13,7 @@ function accum(s) {
 }
 
 console.log("****CHALLENGE 8********")
-console.log(accum('kaia'))
+console.log(accum("kaia"))
 
 
 
